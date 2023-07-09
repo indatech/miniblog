@@ -99,15 +99,15 @@ ul, ol {
 }
 
 /* ------ ASIDE ------ */
-/* #container aside {
+#container aside {
    float: right;
-} */
+} 
 
 
 /* ------ FOOTER ------ */
-/* #container  footer {
-   background-color: bluergb(74, 50, 131);
+#container  footer {
+   background-color: rgb(200, 181, 243);
    color: rgb(74, 50, 131);
    font-size: 13px;
    text-align: center;
-} */
+} 
