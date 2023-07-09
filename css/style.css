@@ -98,6 +98,16 @@ ul, ol {
    color: rgb(104, 77, 168);
 }
 
+.article a {
+   text-decoration: none;
+}
+
+.article a:hover {
+   background-color: rgb(200, 181, 243);
+   border-color: rgb(74, 50, 131) 1px solid;
+}
+
+
 /* ------ ASIDE ------ */
 #container aside {
    float: right;
