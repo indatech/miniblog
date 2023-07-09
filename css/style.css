@@ -5,7 +5,8 @@
 body {
    background: rgb(227, 223, 240);
    color: rgb(22, 22, 22);
-   font-family:  Comic Sans MS;
+   font-family: Fira Code;
+   font-size: 15px;
 }
 
 /* ------ ENCABEZADO ------ */
@@ -16,7 +17,7 @@ body {
   text-align: center;
   color: rgb(74, 50, 131);
   font-weight: bolder;
-  font-size: 45px;
+  font-size: 35px;
   border-radius: 5px;
   
 }
@@ -24,7 +25,7 @@ body {
 #cabecera #tagline {
   font-weight: normal;
   padding: 0 0 0 5em;
-  font-size: 25px;
+  font-size: 20px;
   color: rgb(74, 50, 131);
 }
 
