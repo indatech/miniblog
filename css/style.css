@@ -21,7 +21,7 @@ body {
   
 }
 
-/* #cabecera #tagline {
+#cabecera #tagline {
   font-weight: normal;
   padding: 0 0 0 5em;
   font-size: 25px;
@@ -33,7 +33,7 @@ body {
   height: 48px;
   padding: 0 0 0 10em;
   background-color: rgb(200, 181, 243);
-} */
+} 
 
 
 /* ------ BARRA DE NAVEGACION ------ */
