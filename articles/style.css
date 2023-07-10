@@ -10,8 +10,6 @@ body {
 
 }
 
-
-
 #cabecera {
   background-color: rgb(200, 181, 243);
   box-shadow: 0px 2px 20px rgb(0, 0, 0, 0.5);
@@ -22,6 +20,10 @@ body {
   font-size: 35px;
   border-radius: 5px;
   
+}
+
+#cabecera a {
+   text-decoration: none;
 }
 
 #cabecera #tagline {
@@ -37,8 +39,6 @@ body {
   padding: 0 0 0 10em;
   background-color: rgb(200, 181, 243);
 } 
-
-
 
 #container {
    width: 90%;
