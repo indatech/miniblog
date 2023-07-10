@@ -1,2 +1,2 @@
 # Ignora la carpeta img 
-img
+img/*.jpg
